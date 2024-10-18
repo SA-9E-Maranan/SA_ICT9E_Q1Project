@@ -1,0 +1,390 @@
+body {
+	background-image: url("bg4.jpg");
+	background-repeat: repeat-y;
+	background-size: 100%;
+}
+
+.one {
+	background-image: url("plushie.gif");
+	background-size: 100%;
+	margin-top: -20px;
+	height: 250px;
+	filter: grayscale(70%);
+}
+
+#name {
+	text-align: center;
+	font-family: Pixelify Sans;
+	font-size: 50px;
+	color: white;
+	text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px white;
+}
+
+#desc {
+	text-align: center;
+	font-family: Pixelify Sans;
+	font-size: 20px;
+	color: white;
+	text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px white;
+}
+
+.two {
+	height: 40px;
+	background-image: url('bg3.jpg');
+	margin-top: -24px;
+}
+
+#sale {
+	text-align: center;
+	font-family: Pixelify Sans;
+	font-size: 15px;
+	padding: 10px;
+}
+
+.three {
+	float: left;
+	background-color: #e8cad6;
+	border-radius: 10px;
+	margin-left: 5px;
+}
+
+#rlkma {
+	text-align: left;
+	filter: grayscale(40%);
+	width: 415px;
+	height: 300px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+#col1 {
+	text-align: center;
+	color: white;
+	text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px white;
+	font-size: 25px;
+	font-family: Pixelify Sans;
+	background-color: #fae3f1;
+}
+
+.four {
+	float: left;
+	background-color: #e8cad6;
+	border-radius: 10px;
+	margin-left: 10px;
+	margin-right: 5px;
+}
+
+#sanrio {
+	text-align: center;
+	filter: grayscale(40%);
+	width: 415px;
+	height: 300px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+#col2 {
+	text-align: center;
+	color: white;
+	text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px white;
+	font-size: 25px;
+	font-family: Pixelify Sans;
+	background-color: #fae3f1;
+}
+
+.five {
+	float: right;
+	background-color: #e8cad6;
+	border-radius: 10px;
+	margin-left: -5px;
+	margin-right: 1px;
+}
+
+#sg {
+	text-align: right;
+	filter: grayscale(40%);
+	width: 415px;
+	height: 300px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+#col3 {
+	text-align: center;
+	color: white;
+	text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px white;
+	font-size: 25px;
+	font-family: Pixelify Sans;
+	background-color: #fae3f1;
+}
+
+ol {
+	font-family: Abril Fatface;
+	color: #ad4e6c;
+	font-weight: normal;
+}
+
+a {
+	color: #5c3a56;
+}
+
+#prod1 {
+	width: 130px;
+	height: 170px;
+	margin-top: 52px;
+	margin-left: 40px;
+}
+
+.six {
+	margin-left: 90px;
+}
+
+#rlkma1 {
+	background-color: #bab5b7;
+	width: 200px;
+	font-family: Pixelify Sans;
+	color: white;
+	text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px white;
+	font-size: 20px;
+	border: 1px dashed;
+	border-color: #696064;
+}
+
+ul {
+	background-color: #bab5b7;
+	width: 220px;
+	height: 100px;
+	font-family: Abril Fatface;
+	font-weight: lighter;
+	color: white;
+	border-radius: 10px;
+	text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px white;
+	font-size: 15px;
+	border: 1px solid;
+	border-color: #696064;
+}
+
+#prod2 {
+	width: 130px;
+	height: 170px;
+	margin-top: 50px;
+	margin-left: 40px;
+}
+
+.seven {
+	margin-left: 385px;
+	margin-top: -415px;
+}
+
+#sanrio1 {
+	background-color: #bab5b7;
+	width: 200px;
+	font-family: Pixelify Sans;
+	color: white;
+	text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px white;
+	font-size: 20px;
+	border: 1px dashed;
+	border-color: #696064;
+	padding: 1px;
+}
+
+#prod3 {
+	width: 130px;
+	height: 170px;
+	margin-top: 50px;
+	margin-left: 40px;
+}
+
+.eight {
+	margin-left: 690px;
+	margin-top: -417px;
+}
+
+#sg1 {
+	background-color: #bab5b7;
+	width: 200px;
+	font-family: Pixelify Sans;
+	color: white;
+	text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px white;
+	font-size: 20px;
+	border: 1px dashed;
+	border-color: #696064;
+	padding: 1px;
+}
+
+#prod4 {
+	width: 240px;
+	height: 170px;
+	margin-top: 52px;
+	margin-left: 10px;
+}
+
+.nine {
+	margin-left: 990px;
+	margin-top: -413px;
+}
+
+#sanrio2 {
+	background-color: #bab5b7;
+	width: 200px;
+	font-family: Pixelify Sans;
+	color: white;
+	text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px white;
+	font-size: 20px;
+	border: 1px dashed;
+	border-color: #696064;
+	margin-top: 18px;
+	padding: 1px;
+}
+
+#prod5 {
+	width: 130px;
+	height: 170px;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+.ten {
+	margin-left: 250px;
+	margin-top: -40px;
+}
+
+#sg2 {
+	background-color: #bab5b7;
+	width: 200px;
+	font-family: Pixelify Sans;
+	color: white;
+	text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px white;
+	font-size: 20px;
+	border: 1px dashed;
+	border-color: #696064;
+	padding: 1px;
+}
+
+#prod6 {
+	width: 190px;
+	height: 170px;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+.eleven {
+	margin-left: 530px;
+	margin-top: -413px;
+}
+
+#rlkma2 {
+	background-color: #bab5b7;
+	width: 200px;
+	font-family: Pixelify Sans;
+	color: white;
+	text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px white;
+	font-size: 20px;
+	border: 1px dashed;
+	border-color: #696064;
+	padding: 1px;
+}
+
+#prod7 {
+	width: 200px;
+	height: 170px;
+	margin-top: 50px;
+	margin-left: 40px;
+}
+
+.twelve {
+	margin-left: 810px;
+	margin-top: -409px;
+}
+
+#mystery {
+	background-color: #bab5b7;
+	width: 200px;
+	font-family: Pixelify Sans;
+	color: white;
+	text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px white;
+	font-size: 20px;
+	border: 1px dashed;
+	border-color: #696064;
+	padding: 1px;
+}
+
+#fill {
+	text-align: center;
+	font-family: Pixelify sans;
+	background-image: url('bg3.jpg');
+	text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px white;
+	color: white;
+	padding: 10px;
+	border-radius: 10px;
+	border: 1px dashed;
+	border-color: #b39896;
+	font-size: 35px;
+}
+
+.thirteen {
+	text-align: center;
+	background-image: url('bg2.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-x: -55px;
+	filter: grayscale(40%);
+	border-radius: 10px;
+	border: 1px solid;
+	border-color: #b39896;
+	margin-top: -24px;
+}
+
+#order {
+	text-align: center;
+	font-family: Abril Fatface;
+	color: #5c3a56;
+	font-size: 20px;
+	text-shadow: 1px 1px 2px white;
+}
+
+input[type=text] {
+  	width: 250px;
+  	height: 25px;
+  	font-family: Pixelify Sans;
+  	border-radius: 5px;
+ }
+
+ select {
+ 	font-family: Pixelify Sans;
+ 	border-radius: 5px;
+ 	height: 30px;
+ 	width: 200px;
+ }
+
+ input[type=date] {
+ 	font-family: Pixelify Sans;
+ 	border-radius: 5px;
+ 	height: 30px;
+ 	width: 200px;
+ }
+
+ input [type=checkbox] {
+ 	font-family: Pixelify Sans;
+ }
+
+ textarea {
+ 	font-family: Pixelify Sans;
+ 	border-radius: 5px;
+ }
+
+button[type=submit] {
+  width: 90px;
+  height: 40px;
+  padding: 1px 5px;
+  margin: center;
+  box-sizing: border-box;
+  border: 1px dashed;
+  border-color: #5c3a56;
+  border-radius: 5px;
+  box-shadow: 2px 2px #5c3a56 ;
+  background-color: whitesmoke;
+  color: #5c3a56;
+  font-family: Pixelify Sans;
+  font-size: 20px;
+ }
